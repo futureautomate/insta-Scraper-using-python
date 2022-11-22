@@ -2,6 +2,7 @@ import instaloader
  
 # Creating an instance of the Instaloader class
 bot = instaloader.Instaloader()
+#bot.login(user="Your_username",passwd="Your_password") #Use this code to log-in to your account.
 
 
 def getBasicInfo():
